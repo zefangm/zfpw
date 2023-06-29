@@ -23,7 +23,7 @@ about:
 # About Me
 
 I am a new Ph.D. student in [Department of Statistics](https://statistics.uconn.edu/) at the [University of Connecticut](https://uconn.edu/).
-Here is my [Resume](Resume.pdf).(I'll update it to CV soon)
+Here is my [Resume](ZefangMin_cv.pdf).
 
 # Education
 
