@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Zefang Min"
+
+  page-footer:
+    left: "&copy; Copyright 2023, Zefang Min"
+    right: "Powered by [Quarto](https://quarto.org/)."
+    
+  navbar:
+    left:
+      - href: index.qmd
+        text: 'Home'
+      - href: pub.qmd
+        text: 'Publication'
+      - href: project/index.qmd
+        text: 'Projects'
+      - teach.qmd
+      - contact.qmd
+      
+  page-navigation: true
+    
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

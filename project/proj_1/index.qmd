@@ -1,0 +1,15 @@
+---
+title: "2021 Travelers Model Competition"
+description: "an insurance fraud detection"
+date: "2021-10-20"
+categories: [rstats]
+---
+
+
+![](travel.webp)
+
+-   Cooperated with two teammates as Team LM, and won the campus winner in UConn. The score of our model ranked first in all 22 teams that competed (final private leaderboard).
+
+-   Constructed an ensemble boosting model consisting of XGBoost, LightGBM, and AdaBoost, did a thorough data preprocessing, derived some new features from the data, and analyzed the feature importance using LIME.
+
+-   Gave the final presentation for our team on the Job Shadow Day.

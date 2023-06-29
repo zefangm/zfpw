@@ -1,0 +1,45 @@
+---
+title: "Projects"
+description: |
+  I'll replace this two naive projects with some more worth-mentioning ones soon.
+listing:
+  - id: cspj
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description, image, date]
+    contents: 
+      - proj_1
+      - proj_2
+    type: grid
+    grid-item-border: false
+    sort-ui: false
+    filter-ui: false
+
+  - id: rpkg
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description, image, date]
+    contents: 
+      - proj_3
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    sort: "priority asc"
+    filter-ui: false
+---
+
+## Course Projects
+
+::: {#cspj}
+:::
+
+
+## R Packages
+
+::: {#rpkg}
+:::
+
+It's yet to come.
+
+
+

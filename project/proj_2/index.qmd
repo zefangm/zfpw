@@ -1,0 +1,11 @@
+---
+title: "Corporación Favorita Grocery Sales Forecasting"
+description: "a time series forecasting"
+date: "2022-10-11"
+categories: [ehr]
+priority: 3
+---
+
+![](forecast.jpeg)
+
+Used a seasonal $ARIMA(0,0,1) \times ARIMA(0,1,1)_7$
